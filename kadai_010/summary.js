@@ -7,7 +7,7 @@ $(function(){
     });
     $('#change-text').on('click',function(){
         //textでHello！に変更するよ
-        $('#target').text('Hello!')
+        $('#target').text('ひなちんめんこちん')
     });
     $('#fade-out').on('click',function(){
         $('#target').fadeOut();
